@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "483286963758",
+    "firebase_url": "https://manageit-d1ea5.firebaseio.com",
+    "project_id": "manageit-d1ea5",
+    "storage_bucket": "manageit-d1ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483286963758:android:cd98651453b0b658",
+        "android_client_info": {
+          "package_name": "com.example.aksha.manageit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483286963758-r3d5kfp10g6veuo4icbe0m6pkuojhs0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aksha.manageit",
+            "certificate_hash": "ccc518fb95fbe338c2d1d7e0344eaf22aecaa2d7"
+          }
+        },
+        {
+          "client_id": "483286963758-trs3s8m5hroa4s776co8n3nak0e40sp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoL4qMAPtOKVjngT37zKFMleu01lMHW5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483286963758-trs3s8m5hroa4s776co8n3nak0e40sp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
